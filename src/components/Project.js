@@ -23,7 +23,7 @@ export const projectsData = [
       "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=1000",
     category: "frontend",
     technologies: ["React", "Tailwind CSS"],
-    github: "https://github.com/teeladnoni/Portfolio",
+    github: "https://github.com/purecoderz/Portfolio",
     demo: "/",
   },
   {
@@ -35,8 +35,8 @@ export const projectsData = [
       "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=1000",
     category: "backend",
     technologies: ["Node.js", "Express", "PostgreSQL"],
-    github: "https://github.com/teeladnoni/code-point",
-    demo: "https://teeladnoni.github.io/code-point/",
+    github: "https://github.com/purecoderz/code-point",
+    demo: "https://purecoderz.github.io/code-point/",
   },
 ];
 

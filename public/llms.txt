@@ -1,0 +1,39 @@
+# Oyetunji Taofeek Ololade
+
+> Backend Software Engineer & Technical Educator specializing in Golang, Python, PostgreSQL, and real-time collaborative systems. Founder of Logixia Academy.
+
+## Summary
+Oyetunji Taofeek Ololade is a backend engineer based in Ilorin, Kwara State, Nigeria. He specializes in designing scalable server architecture, building high-performance REST APIs, WebSocket integrations, and interactive developer tools. He leads projects end-to-end—from system design and PostgreSQL schema optimization to web UX.
+
+## Core Technical Stack
+- **Languages:** Golang, Python, JavaScript (ES6+), SQL
+- **Backend & Architecture:** RESTful APIs, WebSockets, API Design, System Architecture, Microservices
+- **Databases & Storage:** PostgreSQL (Schema Design, Query Optimization), Supabase
+- **Frontend & Runtimes:** React, CodeMirror 6, Pyodide (Wasm Python Runtime)
+- **Tools & Infrastructure:** Linux/Ubuntu, Git, Render, Paystack API Integration
+
+## Featured Projects & Work Experience
+
+### Logixia Academy
+- **URL:** https://logixia.com.ng
+- **Role:** Founder & Lead Instructor (March 2026 – Present)
+- **Details:** Built an interactive live-coding education platform solo. Features a real-time collaborative code workspace (CodeMirror 6, single-writer model), client-side Python execution (Pyodide) for auto-graded challenges, and automated Paystack cohort billing via Supabase Edge Functions.
+
+### Gopher OS
+- **URL:** https://go-learning-lab.vercel.app
+- **Role:** Creator & Lead Developer
+- **Details:** Interactive Go programming learning lab built for participants in the Learn2Earn program. Scaled to over 600 peak active users.
+
+### Mstar Innovation Limited
+- **Role:** Manager & Technical Lead (Jan 2025 – Sep 2025)
+- **Details:** Directed the technical architectural upgrade and query performance refactoring of `osunyouthaffairs.com`, the official Osun State Youth Affairs digital portal.
+
+## Education
+- **Higher National Diploma (HND) in Statistics** — Federal Polytechnic Ede (2022)
+
+## Canonical Links & Contact
+- **Portfolio:** https://purecoders.vercel.app/
+- **GitHub:** https://github.com/purecoderz
+- **LinkedIn:** https://linkedin.com/in/purecoders
+- **Email:** oyetunjiteelad@gmail.com
+- **Academy:** https://logixia.com.ng

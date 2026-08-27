@@ -2,9 +2,43 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/logo.jpg" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Pure Coders</title>
+    <meta name="theme-color" content="#ffffff" />
+
+    <!-- Apply the saved theme before first paint, so reloading on the cyber
+         theme doesn't flash the light canvas. Kept inline and tiny on purpose. -->
+    <script>
+      ;(function () {
+        try {
+          var t = localStorage.getItem('theme')
+          document.documentElement.dataset.theme = t === 'cyber' ? 'cyber' : 'light'
+        } catch (e) {
+          document.documentElement.dataset.theme = 'light'
+        }
+      })()
+    </script>
+
+    <title>Oyetunji Taofeek — Backend Engineer & Technical Educator</title>
+    <meta
+      name="description"
+      content="Backend Software Engineer specializing in Golang, Python, and real-time systems. Founder of Logixia Academy. Available for freelance work."
+    />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Oyetunji Taofeek — Backend Engineer & Technical Educator" />
+    <meta
+      property="og:description"
+      content="I build fast, reliable backends and real-time systems in Go, Python & JavaScript. Available for freelance work."
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
     <div id="root"></div>

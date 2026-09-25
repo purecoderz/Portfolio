@@ -151,31 +151,31 @@ export const skillGroups = [
     dir: 'languages/',
     title: 'Languages',
     icon: 'code',
-    items: ['Go', 'Python', 'JavaScript (ES6+)', 'SQL', 'HTML5 / CSS3'],
+    items: ['Python', 'SQL', 'Go', 'JavaScript (ES6+)', 'HTML5 / CSS3'],
   },
   {
     dir: 'backend/',
     title: 'Backend & Architecture',
     icon: 'server',
-    items: ['REST APIs', 'WebSockets', 'API Design', 'System Architecture', 'Microservices'],
+    items: ['FastAPI', 'REST APIs', 'JWT Authentication', 'Async/Await (I/O-bound)', 'API Design'],
   },
   {
     dir: 'databases/',
     title: 'Databases & Storage',
     icon: 'database',
-    items: ['PostgreSQL', 'Supabase', 'Schema Design', 'Query Optimization'],
+    items: ['PostgreSQL', 'SQLAlchemy ORM', 'Redis', 'Schema Design', 'Indexing & Constraints'],
   },
   {
     dir: 'frontend/',
     title: 'Frontend & Tools',
     icon: 'layers',
-    items: ['React', 'CodeMirror 6', 'Pyodide', 'Server-Rendered Templates'],
+    items: ['React'],
   },
   {
     dir: 'devops/',
     title: 'DevOps & Platforms',
     icon: 'terminal',
-    items: ['Linux / Ubuntu', 'Git', 'Render', 'VS Code', 'Paystack API'],
+    items: ['Docker', 'Docker Compose', 'Linux / Ubuntu', 'Git & GitHub', 'Oracle Cloud', 'Caddy (TLS)'],
   },
 ]
 
